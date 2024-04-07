@@ -1,8 +1,8 @@
 Banasthali Daily Delights (B2D) is an online grocery shopping web application developed to serve the members of the Banasthali University community, including students, faculty, and staff. The purpose of this application is to provide a convenient, affordable, and transparent platform for purchasing groceries, eliminating the need for physical store visits and saving valuable time for users with busy academic or work commitments.
 
 Set Up Instructions For Running Website
-- Start the Apache and MySQL modules using the XAMPP controller.
-- Open phpMyAdmin and create a database named "ecommerce".
+- Start the **Apache** and **MySQL** modules using the **XAMPP** controller.
+- Open phpMyAdmin and create a database named *"ecommerce"*.
 - Import the "ecommerce.sql" file present in the zip folder.
 - Navigate to the "htdocs" folder in the XAMPP installation directory.
 - Copy and paste the folder named "ecommerce-website-master" into the "htdocs" folder.
