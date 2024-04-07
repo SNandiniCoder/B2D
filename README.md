@@ -34,6 +34,8 @@ Ouput:
 ![Screenshot (68)](https://github.com/SNandiniCoder/B2D/assets/163187091/5c076bfc-d9ce-4abc-906f-6cae314d2864)
 ![Screenshot (64)](https://github.com/SNandiniCoder/B2D/assets/163187091/ac0d69c0-eb79-419a-8961-c149eaa2002e)
 ![Screenshot (61)](https://github.com/SNandiniCoder/B2D/assets/163187091/2d01a62b-145b-4d20-8d2a-7bcdd4039827)
+![Screenshot (62)](https://github.com/SNandiniCoder/B2D/assets/163187091/990d49c2-42f9-48f3-8727-07c8c8b69369)
+![Screenshot (70)](https://github.com/SNandiniCoder/B2D/assets/163187091/3c653a66-dc9a-4e00-8d50-1662e0f8955a)
 ![Screenshot (71)](https://github.com/SNandiniCoder/B2D/assets/163187091/025326b0-13db-4648-8b0f-e0a3672e06c4)
 
 
