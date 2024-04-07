@@ -29,3 +29,15 @@ Technologies:
 License:
 This project is licensed under the MIT License.
 
+Ouput:
+![Screenshot (57)](https://github.com/SNandiniCoder/B2D/assets/163187091/67b076ac-6e41-409e-9209-a94011884063)
+![Screenshot (68)](https://github.com/SNandiniCoder/B2D/assets/163187091/5c076bfc-d9ce-4abc-906f-6cae314d2864)
+![Screenshot (64)](https://github.com/SNandiniCoder/B2D/assets/163187091/ac0d69c0-eb79-419a-8961-c149eaa2002e)
+![Screenshot (61)](https://github.com/SNandiniCoder/B2D/assets/163187091/2d01a62b-145b-4d20-8d2a-7bcdd4039827)
+![Screenshot (71)](https://github.com/SNandiniCoder/B2D/assets/163187091/025326b0-13db-4648-8b0f-e0a3672e06c4)
+
+
+
+
+
+
